@@ -1,0 +1,2 @@
+POST http://localhost:8080/events/1/register
+Authorization: : 123456789
